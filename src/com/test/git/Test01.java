@@ -6,6 +6,8 @@ public class Test01 {
 		
 		System.out.println("test01");
 		
+		System.out.println("test02 수정 후 다시 올리기");
+		
 	}
 	
 }
